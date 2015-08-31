@@ -80,8 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				5BF8D5501B94C937001F828B /* AppDelegate.swift */,
-				5BF8D5521B94C937001F828B /* MasterViewController.swift */,
-				5BF8D5541B94C937001F828B /* DetailViewController.swift */,
+				5BF8D5721B94D358001F828B /* AAAAAAAAAAI */,
 				5BF8D5561B94C937001F828B /* Main.storyboard */,
 				5BF8D5591B94C937001F828B /* Images.xcassets */,
 				5BF8D55B1B94C937001F828B /* LaunchScreen.xib */,
@@ -113,6 +112,15 @@
 				5BF8D5671B94C937001F828B /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5BF8D5721B94D358001F828B /* AAAAAAAAAAI */ = {
+			isa = PBXGroup;
+			children = (
+				5BF8D5521B94C937001F828B /* MasterViewController.swift */,
+				5BF8D5541B94C937001F828B /* DetailViewController.swift */,
+			);
+			name = AAAAAAAAAAI;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
